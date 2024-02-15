@@ -6,9 +6,9 @@ Welcome to the GitHub repository for our thesis work on VR First Responder Accid
 In emergency situations, quick and effective responses from first responders can save lives. However, traditional training methods often lack realistic scenarios for practice. Our project addresses this by developing a VR simulation platform tailored for first responder training.
 
 ### Key Features
-**Immersive VR Experience**: Experience an accident scene in a virtual environment.
-**Real-time Interaction**: Interact with patients in real-time within the VR simulation.
-**Performance Evaluation**: Provide feedback and performance evaluation metrics to enhance learning outcomes.
+- **Immersive VR Experience**: Experience an accident scene in a virtual environment.
+- **Real-time Interaction**: Interact with patients in real-time within the VR simulation.
+- **Performance Evaluation**: Provide feedback and performance evaluation metrics to enhance learning outcomes.
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
