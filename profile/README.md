@@ -11,7 +11,7 @@ In emergency situations, quick and effective responses from first responders can
 - **Performance Evaluation**: Provide feedback and performance evaluation metrics to enhance learning outcomes.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ### Disclaimer: 
 **This project is developed as part of a thesis work and should not be used in real-life emergency situations. Always rely on certified training and procedures for actual first responder duties.**
